@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1519719572 source:d:\project 3 file\fungsi.c
+	"header.h"
+
+1519720377 d:\project 3 file\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1519719583 source:d:\project 3 file\main.c
+	"header.h"
+
+1520167660 source:e:\alpro\alpro 1\project 3 file\main.c
+	"header.h"
+
+1520167932 e:\alpro\alpro 1\project 3 file\header.h
+	<stdio.h>
+	<stdlib.h>
+
